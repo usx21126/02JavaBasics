@@ -1,4 +1,4 @@
-package scanner;
+package com.xh.scanner;
 
 import java.util.Scanner;
 

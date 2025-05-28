@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/day05-method/day05-method.iml" filepath="$PROJECT_DIR$/day05-method/day05-method.iml" />
       <module fileurl="file://$PROJECT_DIR$/day06-case-code/day06-case-code.iml" filepath="$PROJECT_DIR$/day06-case-code/day06-case-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/day07-oop-code/day07-oop-code.iml" filepath="$PROJECT_DIR$/day07-oop-code/day07-oop-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08-api-code/day08-api-code.iml" filepath="$PROJECT_DIR$/day08-api-code/day08-api-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/myJavaseProject.iml" filepath="$PROJECT_DIR$/myJavaseProject.iml" />
     </modules>
   </component>
